@@ -5,3 +5,6 @@ A .git directory that will contain commits is created. No commits are created at
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The working directory contains your files, the  working directory contains commits - snapshots of your files at different times/edits, and the staging area contains snapshots of files before they are commited. The staging area is therefore kind of like an in between for the working directory and repository. the staging area allows you to specify exactly what changes should be committed. you can add files one at a time to the staging area, and therefore do not have to make a commit of everything in your working directory. You can also remove files from the staging area. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+By only moving the files associated with that change to the staging area.
