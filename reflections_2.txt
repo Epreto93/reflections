@@ -19,3 +19,7 @@ The help you see what your log history looks like for each branch and how checki
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 You end up with all the changes made in the new branch and master branch together.the diagram shows that these two branches now have the same head, and hence you can access all commits from both branches starting at this new head.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merge saves time, manual merge helps resolve conflicts according to user insight and doesn't require advanced machine learning techniques from git.
