@@ -16,3 +16,6 @@ When you want to try out a new experimental feature that you are still not sure 
 How do the diagrams help you visualize the branch structure?
 
 The help you see what your log history looks like for each branch and how checking out previous commits and trying out experimental changes there doesn't effect the other branches. It also helps you understand the "detached head" warning.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+You end up with all the changes made in the new branch and master branch together.the diagram shows that these two branches now have the same head, and hence you can access all commits from both branches starting at this new head.
