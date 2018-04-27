@@ -10,6 +10,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 By only moving the files associated with that change to the staging area.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-By only moving the files associated with that change to the staging area.
 
 When you want to try out a new experimental feature that you are still not sure will work or will be something you want to permanently add to your file. branches help in that you can continue on with your master branch and try something new/experimental on a completely different branch, not interfering with you master branch.
