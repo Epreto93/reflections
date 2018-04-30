@@ -5,3 +5,7 @@ When you your files and commit history to be available to users, for example whe
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 When you are cloning a repository from Github onto Github, you do that using Github’s built in fork feature. It can be used when you want to copy someone else’s repository onto your own account, and when you want this repository to be available to others. Cloning involves taking an existing repository and making one just like it, where the original repository could either be remote (github to local machine) or local (local to local). This is done when you want to make bigger changes to a file, such as code changes, which is not easily done on Github. Branching is done within your repository on your local machine to, for example, test out experimental changes. This can be useful when you only want to push certain commits/changes to your public Github account.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows you to keep track of the state of the remote repository while you work on your branch locally. It then also makes it easier to merge your own commits with the remote repository.
