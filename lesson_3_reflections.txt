@@ -9,3 +9,7 @@ When you are cloning a repository from Github onto Github, you do that using Git
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It allows you to keep track of the state of the remote repository while you work on your branch locally. It then also makes it easier to merge your own commits with the remote repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You would probably have to make changes to your file and send it to the person collaborating with you with a note describing the changes. It would be easier in that you both don’t have to understand git and how GitHub works but more difficult in that you have to keep sharing entire files and searching for changes - which may be hard to find.
