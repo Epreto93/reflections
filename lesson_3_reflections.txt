@@ -13,3 +13,7 @@ It allows you to keep track of the state of the remote repository while you work
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You would probably have to make changes to your file and send it to the person collaborating with you with a note describing the changes. It would be easier in that you both don’t have to understand git and how GitHub works but more difficult in that you have to keep sharing entire files and searching for changes - which may be hard to find.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Branches work well for experimentation and when you want to share changes on Github but do not want these changes to affect the main branch yet, i.e. you want to get feedback from the person collaboration with you before making changes to master.
