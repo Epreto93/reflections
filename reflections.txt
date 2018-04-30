@@ -1,3 +1,4 @@
+How did viewing a diff between two versions help you spot the bug?
 Using diff helped to highlight only the sections of code that had been 
 changed. This saved me from having to look through the entire document.
 
