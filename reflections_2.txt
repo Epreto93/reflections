@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-A .git directory that will contain commits is created. No commits are created at this point though. 
+A .git directory that will contain commits is created. No commits are created at this point though. You need to initialize a repository in order to start making commits and create a commit history.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
